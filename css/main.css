@@ -1,0 +1,14 @@
+.pageHeader {
+    text-align: center;
+}
+.shop {
+    flex-basis: 20%;
+    border: 1px dotted crimson;
+    text-align: left;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;  
+}           
